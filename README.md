@@ -23,10 +23,10 @@
 
 **Assignment:-**
 
-* [Week 1]()
-* [Week 2]()
-* [Week 3]()
-* [Week 4]()
+* [Week 1](http://rishavpandey.me/Web-Design-for-Everybody-Specialisation/course-2/week-1/)
+* [Week 2](http://rishavpandey.me/Web-Design-for-Everybody-Specialisation/course-2/week-2/)
+* [Week 3](http://rishavpandey.me/Web-Design-for-Everybody-Specialisation/course-2/week-3/)
+* [Week 4](http://rishavpandey.me/Web-Design-for-Everybody-Specialisation/course-2/week-4/)
 
 ### Course - 3
 
