@@ -95,6 +95,8 @@ footer {
     font-size: 1rem;
   }
   .myClass {
+    -webkit-column-count:auto;
+	-moz-column-count: auto;
     column-count: auto;
   }
   img {
