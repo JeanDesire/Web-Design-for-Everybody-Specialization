@@ -10,7 +10,7 @@
 #### Introduction to HTML5
 
 ##### Description
->This is the first course in the Web Design For Everybody specialization. Subsequent courses focus on the marketable skills of styling the page with CSS3, adding interactivity with JavaScript and enhancing the styling with responsive design. You can see a sample site for the capstone course at http://intro-webdesign.com/
+>This is the first course in the Web Design For Everybody Specialization. It deals with the basics of HTML, such as W3 validation, several tags, etc
 
 **Note:- This course doesn't contain any assignment**
 
@@ -19,39 +19,37 @@
 ##### Introduction to CSS3
 
 ###### Description
->This is the second course in the Web Design For Everybody specialization.   Subsequent courses focus on adding interaction with JavaScript and enhancing the styling with responsive design.
+>This is the second course in the Web Design For Everybody Specialization. It deals with the styling of page using CSS3.
 
 **Assignment:-**
 
-* [Week 1](https://rishavpandey.com/Web-Design-for-Everybody-Specialisation/course-2/week-1/)
-* [Week 2](https://rishavpandey.com/Web-Design-for-Everybody-Specialisation/course-2/week-2/)
-* [Week 4](https://rishavpandey.com/Web-Design-for-Everybody-Specialisation/course-2/week-4/)
+* [Week 1](https://rishavpandey.com/Web-Design-for-Everybody-Specialization/course-2/week-1/)
+* [Week 2](https://rishavpandey.com/Web-Design-for-Everybody-Specialization/course-2/week-2/)
+* [Week 4](https://rishavpandey.com/Web-Design-for-Everybody-Specialization/course-2/week-4/)
 
 ### Course - 3
 
 ##### Interactivity with JavaScript
 
 ###### Description
->This is the third course in the Web Design For Everybody specialization.  A basic understanding of HTML and CSS is expected when you enroll in this class.    Additional courses focus on enhancing the styling with responsive design and completing a capstone project.
+>This is the third course in the Web Design For Everybody Specialization. It introduces with JavaScript, client-side language used mainly for DOM manipulation and other several tasks mainly for Web Development.
 
 **Assignment:-**
 
-* [Week 2](https://rishavpandey.com/Web-Design-for-Everybody-Specialisation/course-3/week-1/)
-* [Week 4](https://rishavpandey.com/Web-Design-for-Everybody-Specialisation/course-3/week-1/)
+* [Week 2](https://rishavpandey.com/Web-Design-for-Everybody-Specialization/course-3/week-1/)
+* [Week 3](https://rishavpandey.com/Web-Design-for-Everybody-Specialization/course-3/week-1/)
 
 ### Course - 4
 
 ##### Advanced Styling with Responsive Design
 
 ###### Description
->This is the fourth course in the Web Design For Everybody specialization.  A basic understanding of HTML and CSS is expected when you enroll in this class. Additional courses focus on adding interactivity with the JavaScript Programming Language and completing a capstone project.
+>This is the fourth course in the Web Design For Everybody Specialization. This course is the upgraded version of course 2, it deals with advance styling of page like making responsive designs using media-queries.
 
 **Assignment:-**
 
-* [Week 1]()
-* [Week 2]()
-* [Week 3]()
-* [Week 4]()
+* [Week 2](https://rishavpandey.com/Web-Design-for-Everybody-Specialization/course-4/week-2/)
+* [Week 3](https://rishavpandey.com/Web-Design-for-Everybody-Specialization/course-4/week-3/)
 
 ### Course - 5
 
@@ -62,13 +60,7 @@
 
 **Assignment:-**
 
-* [Week 1]()
-* [Week 2]()
-* [Week 3]()
-* [Week 4]()
-* [Week 5]()
-* [Week 6]()
-
+* [My Portfolio](https://rishavpandey.com)
 ## Attention:
 
-**Recommended Course for Begineers in Web Development**
+**`Recommended Course for Beginners in Web Development`**
